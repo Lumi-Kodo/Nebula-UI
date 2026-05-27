@@ -7,7 +7,7 @@
 ## ✨ Preview
 
 <p align="center">
-  <img src="https://i.imgur.com/bTDDqKx.gif">
+  <img src="assets/gifs/2026-05-27%2014-48-44%20(2).gif">
 </p>
 
 <p align="center">
