@@ -131,6 +131,14 @@ html/media/backgrounds/menu_video.webm
 
 with your own `.webm` video.
 
+The custom animated background must be named exactly:
+
+```txt
+menu_video.webm
+```
+
+Do not rename it to anything else, otherwise Nebula UI will not detect it.
+
 Recommended format:
 
 ```txt
