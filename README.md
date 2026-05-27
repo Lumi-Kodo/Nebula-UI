@@ -7,12 +7,7 @@
 ## ✨ Preview
 
 <p align="center">
-  <img src="assets/gifs/2026-05-27%2014-48-44%20(2).gif">
-</p>
-
-<p align="center">
-  <img src="assets/gifs/navbar.gif" width="390" alt="Navbar Preview">
-  <img src="assets/gifs/settings.gif" width="390" alt="Settings Preview">
+  <img src="https://i.imgur.com/B5wAKIY.jpeg" width="800">
 </p>
 
 ---
