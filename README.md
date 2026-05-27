@@ -23,19 +23,19 @@
 ### Server Browser
 
 <p align="center">
-  <img src="assets/screenshots/server_browser.png" width="800">
+  <img src="https://i.imgur.com/cKono6w.jpeg" width="800">
 </p>
 
 ### Addons List
 
 <p align="center">
-  <img src="assets/screenshots/new_game.png" width="800">
+  <img src="https://i.imgur.com/gBHMjy1.jpeg" width="800">
 </p>
 
 ### Nebula UI Settings
 
 <p align="center">
-  <img src="assets/screenshots/settings.png" width="800">
+  <img src="https://i.imgur.com/ffPUKJh.jpeg" width="800">
 </p>
 
 ---
