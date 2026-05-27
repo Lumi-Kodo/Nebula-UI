@@ -144,8 +144,8 @@ Recommended format:
 ```txt
 Resolution: 1920x1080
 Codec: VP9 / WEBM
-FPS: 30
-Length: 10-60 seconds
+FPS: 30/60
+Length: 10-60 seconds or 10 minutes
 ```
 
 For best performance, use a compressed looping video.
