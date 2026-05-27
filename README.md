@@ -17,7 +17,7 @@
 ### New Game Menu
 
 <p align="center">
-  <img src="assets/screenshots/main_menu.png" width="800">
+  <img src="https://i.imgur.com/yBJY0tG.jpeg" width="800">
 </p>
 
 ### Server Browser
