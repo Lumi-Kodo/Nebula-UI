@@ -61,8 +61,15 @@
 
 ---
 
-## 📦 Installation
-1.Download the latest release.
-2.Extract the folder.
-3.Move it to:
-GarrysMod/garrysmod/addons/
+# 📦 Installation
+
+## Manual Installation
+
+1. Download the latest release from the repository.
+
+2. Extract the archive.
+
+3. Move the folder:
+
+```txt
+Steam\steamapps\common\GarrysMod\garrysmod\addons\
