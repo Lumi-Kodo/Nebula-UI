@@ -1,6 +1,6 @@
 # 🌌 Nebula UI
 
-**Nebula UI** — визуальная переработка главного меню Garry's Mod в современном тёмном стиле с акцентными цветами, анимациями, адаптацией под разные разрешения и улучшенным интерфейсом.
+**Nebula UI** — is a visual redesign of the Garry's Mod main menu featuring a modern dark style, accent colors, animations, multi-resolution support, and an improved user interface.
 
 ---
 
