@@ -61,19 +61,8 @@
 
 ---
 
-## 🖼️ Gallery Structure
-
-Recommended folders:
-
-```txt
-assets/
-├── screenshots/
-│   ├── main_menu.png
-│   ├── server_browser.png
-│   ├── new_game.png
-│   └── settings.png
-│
-└── gifs/
-    ├── navbar.gif
-    ├── settings.gif
-    └── smooth_scroll.gif
+## 📦 Installation
+1.Download the latest release.
+2.Extract the folder.
+3.Move it to:
+GarrysMod/garrysmod/addons/
