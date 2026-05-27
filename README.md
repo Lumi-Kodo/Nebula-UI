@@ -136,57 +136,6 @@ Recommended for:
 
 ---
 
-## 🔲 Rounded Interface
-
-You can enable or disable rounded corners for the entire interface.
-
-This affects:
-
-- buttons;
-- cards;
-- dropdown menus;
-- server browser;
-- popups;
-- settings panels.
-
----
-
-## 🌍 Language Support
-
-Nebula UI supports Garry's Mod localization system.
-
-Changing the game language automatically updates:
-
-- menu text;
-- settings text;
-- descriptions;
-- tooltips.
-
----
-
-## 🖱️ Smooth Scrolling
-
-Nebula UI adds custom smooth scrolling to:
-
-- server browser;
-- gamemode lists;
-- content lists;
-- dropdown menus.
-
----
-
-## 🧩 Q-Menu Compatibility
-
-Nebula UI keeps original Garry's Mod functionality for:
-
-- Saves
-- Dupes
-- Spawnmenu content
-
-Q-menu uses the original Garry's Mod layout to preserve compatibility and stability.
-
----
-
 ## 🔄 Resetting Settings
 
 Nebula UI settings are stored locally.
@@ -200,24 +149,3 @@ Nebula UI Settings → Reset Settings
 or manually delete browser storage/cache.
 
 ---
-
-## 🛠️ Recommended Settings
-
-For best visual experience:
-
-```txt
-Animated Background: Enabled
-Rounded Interface: Enabled
-Performance Mode: Disabled
-```
-
-For low-end systems:
-
-```txt
-Animated Background: Disabled
-Performance Mode: Enabled
-```
-
----
-```txt
-Steam\steamapps\common\GarrysMod\garrysmod\addons\
