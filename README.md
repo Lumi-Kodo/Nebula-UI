@@ -117,6 +117,63 @@ If performance mode is enabled, animated backgrounds become unavailable automati
 
 ---
 
+## 🖼️ Custom Animated Background
+
+You can replace the default Nebula UI animated background with your own video or GIF.
+
+### Video Background
+
+Replace:
+
+```txt
+html/media/backgrounds/menu_video.webm
+```
+
+with your own `.webm` video.
+
+Recommended format:
+
+```txt
+Resolution: 1920x1080
+Codec: VP9 / WEBM
+FPS: 30
+Length: 10-60 seconds
+```
+
+For best performance, use a compressed looping video.
+
+---
+
+### GIF Background
+
+Replace:
+
+```txt
+html/media/backgrounds/menu_background.gif
+```
+
+with your own animated GIF.
+
+GIF background is used as:
+- fallback background;
+- low-performance alternative;
+- backup when video playback fails.
+
+---
+
+## ⚠️ Notes
+
+Very large videos may increase:
+- menu loading time;
+- VRAM usage;
+- Chromium memory usage.
+
+For low-end systems it is recommended to:
+- disable animated backgrounds;
+- or use lightweight WEBM files.
+
+---
+
 ## ⚡ Performance Mode
 
 Performance mode disables heavy visual effects to improve FPS and reduce menu lag on weaker systems.
