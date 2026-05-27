@@ -65,6 +65,10 @@
 
 3. Move the folder:
 
+```txt
+GarrysMod/garrysmod/addons/
+```
+
 ---
 
 # ⚙️ Usage
