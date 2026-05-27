@@ -7,7 +7,7 @@
 ## ✨ Preview
 
 <p align="center">
-  <img src="https://i.imgur.com/bTDDqKx.gif" width="800" alt="Nebula UI Main Menu">
+  <img src="https://i.imgur.com/bTDDqKx.gif">
 </p>
 
 <p align="center">
