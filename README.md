@@ -48,7 +48,7 @@
 ## 🎨 Features
 
 - Modern dark glass-style interface
-- Custom navbar icons
+- Custom navbar
 - Color scheme selector
 - Animated background support
 - Optional performance mode
@@ -56,7 +56,6 @@
 - Redesigned new game menu
 - Redesigned language selector
 - Responsive 720p / 1080p / 2K / 4K support
-- Custom checkboxes and scrollbars
 - Original Q-menu Saves/Dupes compatibility
 
 ---
