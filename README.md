@@ -14,7 +14,7 @@
 
 ## 📸 Screenshots
 
-### Main Menu
+### New Game Menu
 
 <p align="center">
   <img src="assets/screenshots/main_menu.png" width="800">
@@ -26,7 +26,7 @@
   <img src="assets/screenshots/server_browser.png" width="800">
 </p>
 
-### New Game Menu
+### Addons List
 
 <p align="center">
   <img src="assets/screenshots/new_game.png" width="800">
