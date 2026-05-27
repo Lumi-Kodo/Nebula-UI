@@ -65,5 +65,159 @@
 
 3. Move the folder:
 
+---
+
+# ⚙️ Usage
+
+Nebula UI includes a built-in settings panel that allows you to customize the interface directly inside the game.
+
+To open Nebula UI settings:
+
+```txt
+Main Menu → Settings → Nebula UI
+```
+
+---
+
+## 🎨 Accent Colors
+
+Nebula UI supports multiple accent color presets.
+
+Available options include:
+
+- Blue
+- Purple
+- Red
+- Orange
+- Green
+- Pink
+- Custom RGB color
+
+Changing the accent color updates:
+
+- buttons;
+- checkboxes;
+- scrollbars;
+- hover effects;
+- server browser highlights;
+- navigation elements.
+
+---
+
+## 🎥 Animated Background
+
+Nebula UI supports animated video backgrounds.
+
+Available options:
+
+- Enable / disable animated background
+- Restart background video
+
+If performance mode is enabled, animated backgrounds become unavailable automatically.
+
+---
+
+## ⚡ Performance Mode
+
+Performance mode disables heavy visual effects to improve FPS and reduce menu lag on weaker systems.
+
+When enabled, Nebula UI disables:
+
+- animated backgrounds;
+- blur effects;
+- expensive UI transitions;
+- glow effects.
+
+Recommended for:
+
+- low-end PCs;
+- integrated graphics;
+- older Chromium builds.
+
+---
+
+## 🔲 Rounded Interface
+
+You can enable or disable rounded corners for the entire interface.
+
+This affects:
+
+- buttons;
+- cards;
+- dropdown menus;
+- server browser;
+- popups;
+- settings panels.
+
+---
+
+## 🌍 Language Support
+
+Nebula UI supports Garry's Mod localization system.
+
+Changing the game language automatically updates:
+
+- menu text;
+- settings text;
+- descriptions;
+- tooltips.
+
+---
+
+## 🖱️ Smooth Scrolling
+
+Nebula UI adds custom smooth scrolling to:
+
+- server browser;
+- gamemode lists;
+- content lists;
+- dropdown menus.
+
+---
+
+## 🧩 Q-Menu Compatibility
+
+Nebula UI keeps original Garry's Mod functionality for:
+
+- Saves
+- Dupes
+- Spawnmenu content
+
+Q-menu uses the original Garry's Mod layout to preserve compatibility and stability.
+
+---
+
+## 🔄 Resetting Settings
+
+Nebula UI settings are stored locally.
+
+To reset all settings:
+
+```txt
+Nebula UI Settings → Reset Settings
+```
+
+or manually delete browser storage/cache.
+
+---
+
+## 🛠️ Recommended Settings
+
+For best visual experience:
+
+```txt
+Animated Background: Enabled
+Rounded Interface: Enabled
+Performance Mode: Disabled
+```
+
+For low-end systems:
+
+```txt
+Animated Background: Disabled
+Performance Mode: Enabled
+```
+
+---
 ```txt
 Steam\steamapps\common\GarrysMod\garrysmod\addons\
