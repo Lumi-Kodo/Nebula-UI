@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/b3aN6Wx.png" width="800">
+  <img src="https://i.imgur.com/li6nJOD.png" width="800">
 </p>
 
 **Nebula UI** — is a visual redesign of the Garry's Mod main menu featuring a modern dark style, accent colors, animations, multi-resolution support, and an improved user interface.
