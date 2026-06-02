@@ -185,6 +185,7 @@ menu_video.webm
 ```
 
 Do not rename it to anything else, otherwise Nebula UI will not detect it.
+# The game version should be x86-64 only!
 
 ---
 
