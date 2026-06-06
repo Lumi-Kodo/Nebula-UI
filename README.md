@@ -63,7 +63,7 @@
 
 1. Download the latest release from the repository.
 
-2. Extract the archive.
+2. Open the archive.
 
 3. Move the folder:
 
